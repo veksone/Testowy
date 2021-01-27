@@ -1,2 +1,2 @@
-# WizdomQA
+# Wizdom_traning
 Test
