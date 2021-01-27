@@ -1,2 +1,2 @@
-# Testowy
+# WizdomQA
 Test
